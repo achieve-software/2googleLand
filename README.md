@@ -13,7 +13,7 @@ Google Landing Page (folder)
 |----images
 ```
 ## Project-gif
-https://raw.githubusercontent.com/achieve-software/gif/main/google.gif
+![GoogleLanding](https://raw.githubusercontent.com/achieve-software/gif/main/google.gif)
 ## Project-link
 https://stately-boba-9ac91e.netlify.app/
 ### At the end of the project, following topics are to be covered;
